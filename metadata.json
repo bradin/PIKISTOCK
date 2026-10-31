@@ -1,0 +1,6 @@
+{
+  "name": "PIKISTOCK",
+  "description": "Plateforme intelligente de gestion commerciale, de stocks, de ventes et de finances multi-entreprises avec mode Offline-First.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

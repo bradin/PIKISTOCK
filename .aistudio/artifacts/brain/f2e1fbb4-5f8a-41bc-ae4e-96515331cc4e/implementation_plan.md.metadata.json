@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan d'implémentation architectural et technique complet pour PIKISTOCK : plateforme SaaS de gestion commerciale, de stocks et de finances multi-entreprises avec architecture Offline-First (IndexedDB/Outbox + synchronisation Cloud SQL PostgreSQL), gestion multi-devises personnalisable avec taux du jour (USD/CDF/XOF), et structure modulaire pour le Web et l'extension Android.",
+  "updatedAt":  "2026-10-31T22:37:14.863114772Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
